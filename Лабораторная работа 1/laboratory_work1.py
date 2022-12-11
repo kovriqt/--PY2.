@@ -47,7 +47,7 @@ class bike:
         ...
 
 
-class Thermos:
+class Teapot:
     def __init__(self, brand: str, capacity: Union[int, float]):
         """
         Создание объекта Чайник
